@@ -1,0 +1,1764 @@
+CRITICAL - 2024-08-14 08:27:11 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:11 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:13 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:13 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:38 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:38 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:48 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:49 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:52 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:52 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:53 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:53 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:54 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:54 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:54 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:57 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:27:57 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:28:19 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:28:19 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:28:24 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:28:24 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 21.
+ 1 APPPATH\Controllers\UserController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:29:46 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, stdClass given
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 30.
+ 1 APPPATH\Controllers\UserController.php(30): count(Object(stdClass))
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:30:18 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 30.
+ 1 APPPATH\Controllers\UserController.php(30): count('2')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:30:19 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 30.
+ 1 APPPATH\Controllers\UserController.php(30): count('2')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:30:20 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 30.
+ 1 APPPATH\Controllers\UserController.php(30): count('2')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:30:43 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:30:44 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:30:44 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:30:44 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:31:11 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, stdClass given
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 23.
+ 1 APPPATH\Controllers\UserController.php(23): count(Object(stdClass))
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:31:12 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, stdClass given
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 23.
+ 1 APPPATH\Controllers\UserController.php(23): count(Object(stdClass))
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:31:12 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, stdClass given
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 23.
+ 1 APPPATH\Controllers\UserController.php(23): count(Object(stdClass))
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:31:12 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, stdClass given
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 23.
+ 1 APPPATH\Controllers\UserController.php(23): count(Object(stdClass))
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:31:12 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, stdClass given
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 23.
+ 1 APPPATH\Controllers\UserController.php(23): count(Object(stdClass))
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:31:39 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, stdClass given
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 23.
+ 1 APPPATH\Controllers\UserController.php(23): count(Object(stdClass))
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:31:40 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, stdClass given
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 23.
+ 1 APPPATH\Controllers\UserController.php(23): count(Object(stdClass))
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:31:41 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, stdClass given
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 23.
+ 1 APPPATH\Controllers\UserController.php(23): count(Object(stdClass))
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:31:41 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, stdClass given
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 23.
+ 1 APPPATH\Controllers\UserController.php(23): count(Object(stdClass))
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:33:41 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:33:41 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:35:52 --> ErrorException: Undefined variable $countCompanions
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 29.
+ 1 APPPATH\Controllers\UserController.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $countCompanions', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 29)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:50:37 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:50:37 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:51:52 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 08:51:52 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:00:06 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:00:06 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:53:47 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:53:48 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:54:10 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:54:11 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:55:32 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:55:32 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:56:14 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:56:14 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:56:45 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:56:45 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:57:24 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:57:24 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:57:41 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:57:41 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:57:44 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:57:44 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:58:00 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:58:00 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:58:06 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:58:06 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:58:06 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:58:06 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:58:51 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:58:51 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:59:04 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:59:04 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:59:17 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 09:59:17 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:01:03 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:01:03 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:04:21 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:04:21 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:05:10 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:05:10 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:05:30 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:05:30 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:05:48 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:05:48 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:06:00 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:06:00 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:06:34 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:06:34 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:06:48 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:06:48 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:07:11 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:07:11 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:11:14 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/confirm]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('confirm')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:12:19 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:12:19 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:12:22 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:12:23 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:13:10 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:13:10 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:13:13 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:13:13 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:13:25 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:13:25 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:13:26 --> ArgumentCountError: Too few arguments to function App\Controllers\UserController::confirmRSVP(), 0 passed in C:\xampp\htdocs\codeigniter\project-root\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: POST, Route: rsvp/confirm]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->confirmRSVP()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:13:46 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:13:46 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:13:58 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:13:58 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:13:59 --> ArgumentCountError: Too few arguments to function App\Controllers\UserController::confirmRSVP(), 0 passed in C:\xampp\htdocs\codeigniter\project-root\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: POST, Route: rsvp/confirm]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->confirmRSVP()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:14:23 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:14:23 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:14:24 --> ArgumentCountError: Too few arguments to function App\Controllers\UserController::confirmRSVP(), 0 passed in C:\xampp\htdocs\codeigniter\project-root\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: POST, Route: rsvp/confirm]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->confirmRSVP()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:14:42 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/confirm]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('confirm')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:19:08 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:19:09 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:19:09 --> ArgumentCountError: Too few arguments to function App\Controllers\UserController::confirmRSVP(), 0 passed in C:\xampp\htdocs\codeigniter\project-root\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: POST, Route: rsvp/confirm]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->confirmRSVP()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:19:14 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/confirm]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('confirm')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:19:43 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/confirm]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('confirm')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:19:45 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/confirm]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('confirm')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:19:46 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:19:46 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:19:47 --> ArgumentCountError: Too few arguments to function App\Controllers\UserController::confirmRSVP(), 0 passed in C:\xampp\htdocs\codeigniter\project-root\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: POST, Route: rsvp/confirm]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->confirmRSVP()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:19:49 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/confirm]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('confirm')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:20:29 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/confirm]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('confirm')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:20:34 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/confirm]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('confirm')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:20:43 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:20:44 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:20:44 --> ArgumentCountError: Too few arguments to function App\Controllers\UserController::confirmRSVP(), 0 passed in C:\xampp\htdocs\codeigniter\project-root\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: POST, Route: confirm]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->confirmRSVP()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:21:14 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:21:14 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:21:15 --> ArgumentCountError: Too few arguments to function App\Controllers\UserController::confirmRSVP(), 0 passed in C:\xampp\htdocs\codeigniter\project-root\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: POST, Route: confirm]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->confirmRSVP()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:22:11 --> ErrorException: Undefined property: stdClass::$companions_count
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 591.
+ 1 APPPATH\Views\pages\home.php(591): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$companions_count', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Views\\pages\\home.php', 591)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Home.php(21): view('pages/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:22:11 --> ErrorException: Undefined property: stdClass::$companions_count
+[Method: GET, Route: /]
+in APPPATH\Views\pages\home.php on line 591.
+ 1 APPPATH\Views\pages\home.php(591): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$companions_count', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Views\\pages\\home.php', 591)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Views\\pages\\home.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 5 APPPATH\Controllers\Home.php(21): view('pages/home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:25:40 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:25:40 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:26:18 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:26:18 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:26:19 --> ArgumentCountError: Too few arguments to function App\Controllers\UserController::confirmRSVP(), 0 passed in C:\xampp\htdocs\codeigniter\project-root\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: POST, Route: confirm]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->confirmRSVP()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:26:40 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:26:40 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:26:40 --> ArgumentCountError: Too few arguments to function App\Controllers\UserController::confirmRSVP(), 0 passed in C:\xampp\htdocs\codeigniter\project-root\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: POST, Route: confirm]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->confirmRSVP()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:27:11 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:27:11 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:27:12 --> ArgumentCountError: Too few arguments to function App\Controllers\UserController::confirmRSVP(), 0 passed in C:\xampp\htdocs\codeigniter\project-root\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: POST, Route: confirm]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->confirmRSVP()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:31:13 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:31:13 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:31:14 --> ArgumentCountError: Too few arguments to function App\Controllers\UserController::confirmRSVP(), 0 passed in C:\xampp\htdocs\codeigniter\project-root\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933 and exactly 1 expected
+[Method: POST, Route: confirm]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->confirmRSVP()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:33:27 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:33:27 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:33:28 --> ErrorException: Undefined variable $request
+[Method: POST, Route: confirm]
+in APPPATH\Controllers\UserController.php on line 44.
+ 1 APPPATH\Controllers\UserController.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $request', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 44)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->confirmRSVP()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:34:11 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:34:11 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:35:54 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:35:54 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:35:55 --> ErrorException: Undefined variable $request
+[Method: POST, Route: confirm]
+in APPPATH\Controllers\UserController.php on line 44.
+ 1 APPPATH\Controllers\UserController.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $request', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 44)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->confirmRSVP()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:36:03 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:36:03 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:36:04 --> ErrorException: Undefined variable $request
+[Method: POST, Route: confirm]
+in APPPATH\Controllers\UserController.php on line 44.
+ 1 APPPATH\Controllers\UserController.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $request', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 44)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->confirmRSVP()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:36:59 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:36:59 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:36:59 --> ErrorException: Undefined variable $request
+[Method: POST, Route: confirm]
+in APPPATH\Controllers\UserController.php on line 44.
+ 1 APPPATH\Controllers\UserController.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $request', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 44)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->confirmRSVP()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:38:00 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:38:00 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:38:30 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:38:30 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:39:44 --> ErrorException: Attempt to read property "id" on null
+[Method: GET, Route: rsvp/59627970757]
+in APPPATH\Controllers\UserController.php on line 20.
+ 1 APPPATH\Controllers\UserController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 20)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('59627970757')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:41:45 --> Exception: You already confirmed
+[Method: GET, Route: rsvp/59627970757]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('59627970757')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:42:20 --> Exception: You already confirmed
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:42:20 --> Exception: You already confirmed
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:43:15 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Views\pages\home.php on line 590.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 4 APPPATH\Controllers\UserController.php(35): view('pages/home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:44:39 --> TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Views\pages\home.php on line 590.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('pages/home', [], true)
+ 4 APPPATH\Controllers\UserController.php(35): view('pages/home', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:46:16 --> Exception: You already confirmed
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:46:16 --> Exception: You already confirmed
+[Method: GET, Route: rsvp/img/favicon.ico]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('img', 'favicon.ico')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-08-14 10:46:22 --> Error in confirmRSVP: Undefined variable $google_map_key
+CRITICAL - 2024-08-14 10:46:38 --> Exception: You already confirmed
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:47:05 --> ErrorException: Undefined variable $e
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 APPPATH\Controllers\UserController.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $e', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-14 10:47:09 --> ErrorException: Undefined variable $e
+[Method: GET, Route: rsvp/99060329313]
+in APPPATH\Controllers\UserController.php on line 37.
+ 1 APPPATH\Controllers\UserController.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $e', 'C:\\xampp\\htdocs\\codeigniter\\project-root\\app\\Controllers\\UserController.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\UserController->getInviteeData('99060329313')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
